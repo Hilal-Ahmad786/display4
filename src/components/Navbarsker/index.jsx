@@ -41,7 +41,7 @@ const Navbarsker = ({ navbarRef, logoRef, logoClass }) => {
                             </Link>
                         </div>
                         <div className="col-lg-6 sliderForNavbarText justify-content-center">
-                            <div className="textForNavbarText">This is dummy text for slider, Here all the latest news will be apeared</div>
+                            <div className="textForNavbarText">This is dummy text for slider, Here all the latest newss will be apeared</div>
                         </div>
                         <div className="col-lg-3">
                             <div className="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
