@@ -12,4 +12,8 @@ module.exports = {
   eslint: {
     ignoreDuringBuilds: false,
   },
+  images: {
+    loader: 'akamai',
+    path: '',
+  },
 };
